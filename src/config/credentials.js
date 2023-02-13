@@ -1,0 +1,1 @@
+export const PRIVATE_KEY = 'HJHJAHjsdhj2323##)(=?34hghf'
